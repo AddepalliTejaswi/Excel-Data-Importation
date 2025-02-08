@@ -7,19 +7,19 @@ const AboutMe = () => {
         About Me
       </h2>
       <p className="text-lg text-gray-700 mb-4">
-        I'm Kolla Yaswanth, a passionate software developer skilled in web development and machine learning. I've built full-stack applications and am always working on enhancing my skills. My expertise spans across React, Node.js, Express, MongoDB, and more. I thrive on solving complex problems and enjoy learning new technologies.
+        hello world
       </p>
       
       <h3 className="text-2xl font-semibold mt-6 text-blue-500">Projects</h3>
       <ul className="list-disc pl-6 mt-2 space-y-2 text-lg">
         <li className="text-gray-800 hover:text-blue-600 transition-all duration-300">
-          <strong>Food Delivery Website:</strong> A complete food delivery platform with user authentication, order management, and payment integration.
+          <strong>Project 1:</strong> aa
         </li>
         <li className="text-gray-800 hover:text-blue-600 transition-all duration-300">
-          <strong>Plant Disease Recognition:</strong> A machine learning project that detects plant diseases using a trained CNN model.
+          <strong>Project 2:</strong> bb
         </li>
         <li className="text-gray-800 hover:text-blue-600 transition-all duration-300">
-          <strong>Face Mask Detection:</strong> A computer vision project that detects if people are wearing face masks.
+          <strong>Project 3:</strong> cc
         </li>
       </ul>
     </div>
