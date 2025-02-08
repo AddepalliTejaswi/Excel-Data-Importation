@@ -12,13 +12,13 @@ const ContactMe = () => {
       
       <ul className="list-disc pl-6 mt-2 space-y-3 text-lg">
         <li className="text-gray-800 hover:text-blue-600 transition-all duration-300">
-          <strong>Email:</strong> <a href="mailto:kollayaswanth555@gmail.com" className="text-blue-500 hover:underline">kollayaswanth555@gmail.com</a>
+          <strong>Email:</strong> <a href="mailto:addepallitejaswi04@gmail.com" className="text-blue-500 hover:underline">addepallitejaswi04@gmail.com</a>
         </li>
         <li className="text-gray-800 hover:text-blue-600 transition-all duration-300">
-          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yaswanth-kolla-48a66b274/" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Kolla Yaswanth</a>
+          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tejaswi-addepalli-712a652a7/" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Addepalli Tejaswi</a>
         </li>
         <li className="text-gray-800 hover:text-blue-600 transition-all duration-300">
-          <strong>GitHub:</strong> <a href="https://github.com/Yaswanthkolla555" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">Yaswanthkolla555</a>
+          <strong>GitHub:</strong> <a href="https://github.com/AddepalliTejaswi" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">AddepalliTejaswi</a>
         </li>
       </ul>
     </div>
